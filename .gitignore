@@ -3,3 +3,6 @@
 
 # Except for these files
 !.gitignore
+!Creatures/
+!Creatures/Creature001/
+!Creatures/Creature001/*
